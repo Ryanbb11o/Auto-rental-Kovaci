@@ -5,6 +5,7 @@
   "description": "Auto Rental Kovaci — your keys to Albania.",
   "type": "module",
   "scripts": {
+    "build": "npm run check && node scripts/build.mjs",
     "dev": "node scripts/serve.mjs",
     "start": "node scripts/serve.mjs",
     "check": "node --check dist/app.js && node scripts/check.mjs"
