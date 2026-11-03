@@ -1,0 +1,13 @@
+{
+  "name": "auto-rental-kovaci",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Auto Rental Kovaci — your keys to Albania.",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node --check dist/app.js && node scripts/check.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

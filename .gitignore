@@ -1,0 +1,10 @@
+node_modules/
+.sites-runtime/
+.sites-checkout/
+*.tar.gz
+*.log
+.env
+.DS_Store
+output/
+!dist/
+!dist/**
