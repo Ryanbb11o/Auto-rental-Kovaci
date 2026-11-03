@@ -61,7 +61,7 @@ Numbers transcribed from the supplied business card and normalized to Albania’
 
 1. Confirm company spelling (Kovaci / Kovaçi), both numbers and social handles.
 2. Supply the actual vehicle list, photos, specifications and approved prices. Current images and categories illustrate vehicle styles and explicitly do not promise inventory.
-3. Confirm driver age, licence and ID requirements, deposits, payment methods, insurance, mileage/fuel policies, cross-border permission and cancellation terms. The site asks visitors to confirm these with the team.
+3. Confirm minimum age, licence and ID requirements, deposits, payment methods, insurance, mileage/fuel policies, cross-border permission and cancellation terms. The site asks visitors to confirm these with the team.
 4. Confirm exact collection arrangements, airport delivery availability and fees. The current page says the office is near the airport and asks visitors to arrange collection; it does not promise a terminal desk or free transfers.
 5. Replace the general street-search link with a verified Google Maps business pin if available. The graphic is an explicitly labelled area illustration, not a geographic map.
 6. Review privacy information for the final hosting environment and business data-handling process. The site adds no analytics or advertising cookies and stores only an intro-viewed flag in session storage.
